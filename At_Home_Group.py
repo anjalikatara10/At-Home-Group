@@ -1,4 +1,3 @@
-## FINAL GROUP PROJECT ##
 
 # Libraries
 import pandas as pd
